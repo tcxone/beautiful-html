@@ -54,8 +54,12 @@ body {
 	margin-top: 20px;
 }
 
-.main a {
+a {
 	text-align: center;
 	margin-top: 20px;
 	color: #333;
+}
+
+.main img {
+	max-width: 100%;
 }
